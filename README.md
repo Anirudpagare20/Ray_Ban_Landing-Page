@@ -1,7 +1,5 @@
 ﻿# Ray_Ban_Landing-Page
-<p style="text-transform: uppercase">This text will be in uppercase</p>
 
-Here is a simple README file for the Ray-Ban landing page with animations and modern landing page using SheryJS from npm:
 
 # Ray-Ban Landing Page
 
